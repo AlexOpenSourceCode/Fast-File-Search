@@ -1,0 +1,1 @@
+Windows 10 file search is SLOW. This script allows you to search for files quickly. You can create a list of "priority directories" to optimize search speed. Add priority directories to data.json
